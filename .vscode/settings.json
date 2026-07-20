@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+        "UV_CACHE_DIR": "G:\\uv_storage\\cache",
+        "UV_PYTHON_INSTALL_DIR": "G:\\uv_storage\\python",
+        "UV_TOOL_DIR": "G:\\uv_storage\\tools"
+    }
+}
